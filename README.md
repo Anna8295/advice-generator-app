@@ -1,26 +1,39 @@
-# Frontend Mentor - Advice generator app
 
-![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
+# Advice generator app
 
-## Welcome! 👋
+The application generates advice using the Advice Slip API.
 
-Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+## API Reference
 
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
+- [Advice Slip API](https://api.adviceslip.com)
 
-## The challenge
 
-Your challenge is to build out this advice generator app using the [Advice Slip API](https://api.adviceslip.com) and get it looking as close to the design as possible.
+## Demo
 
-Your users should be able to:
+https://anna8295.github.io/advice-generator-app/
 
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Generate a new piece of advice by clicking the dice icon
 
-## Personal comment 
- 
-- (View the optimal layout for the app depending on their device's screen size) -> not set yet
-- fun fact: some of the advice is so funny 
+## Tech Stack
+
+**Client:** HTML, CSS
+
+**Server:** JavaScript
+
+
+## Lessons Learned
+
+I learned how to interact with third-party APIs. Next, how to
+generate a new piece of advice by clicking the button and the hover states for all interactive elements on the page.
+
+
+## Features
+
+- optimal layout for the app depending on their device's screen size
+
+
+## Acknowledgements
+
+ - [The design and idea are taken from: frontendmentor.io](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
+
+
