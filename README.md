@@ -27,11 +27,6 @@ I learned how to interact with third-party APIs. Next, how to
 generate a new piece of advice by clicking the button and the hover states for all interactive elements on the page.
 
 
-## Features
-
-- optimal layout for the app depending on their device's screen size
-
-
 ## Acknowledgements
 
  - [The design and idea are taken from: frontendmentor.io](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db)
